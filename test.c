@@ -1,4 +1,4 @@
-## main branch
+## test branch
 
 # include <stdio.h>
 
@@ -8,7 +8,7 @@ int main()
 	return 0
 }
 
-int master()
+int test()
 {
 
 }
